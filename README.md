@@ -1,3 +1,3 @@
 # .github
 
-*Community health files for the @TransformCore organization
+*Community health files for the @TransformCore organization*

@@ -13,7 +13,7 @@ We create and curate agile and multi-functional teams, bespoke to the challenge 
 - Change & Delivery
 
 If you are interested in getting to know us better you can:
-- Check our [latest work here](https://www.transformuk.com/projects)
+- Check our [latest work here](https://www.transformuk.com/pages/case-studies)
 - Check our [open positions](https://www.transformuk.com/join-us)
 - Get in touch with us at [hello@transformuk.com](mailto:hello@transformuk.com)
 
